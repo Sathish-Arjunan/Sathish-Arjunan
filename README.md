@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sathish-Arjunan
-- 👀 I’m interested in ... Database/Java/Flutter
+- 👀 I’m interested in ... Oracle DBA/Python/Java/Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... asathishdba@gmail.com / 9840774571
